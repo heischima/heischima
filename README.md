@@ -1,4 +1,4 @@
-![logo](devops_toolchain.jpg)
+![logo](devops_toolchain.jpeg)
 <h1 align="center">Hi 👋, I'm Joseph Chima</h1>
 <h3 align="center">DevOps Engineer</h3>
 
